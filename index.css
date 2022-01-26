@@ -97,6 +97,10 @@ main {
   color: var(--Soft-Pink);
 }
 
+.attribution {
+  margin-left: 300px;
+}
+
 @media (min-width: 768px) {
   body {
     background: url(./images/bg-pattern-bottom-desktop.svg) no-repeat right
